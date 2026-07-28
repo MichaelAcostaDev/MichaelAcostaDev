@@ -1,0 +1,18 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#0F172A"/>
+  <rect x="24" y="24" width="1152" height="272" rx="20" fill="url(#bg)"/>
+  <circle cx="970" cy="110" r="110" fill="#60A5FA" fill-opacity="0.2"/>
+  <circle cx="900" cy="230" r="150" fill="#8B5CF6" fill-opacity="0.18"/>
+  <rect x="92" y="92" width="360" height="132" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <path d="M136 179C136 155.804 154.804 137 178 137H314C337.196 137 356 155.804 356 179V179C356 202.196 337.196 221 314 221H178C154.804 221 136 202.196 136 179V179Z" fill="#ffffff" fill-opacity="0.1"/>
+  <path d="M170 176C170 151.699 189.699 132 214 132H278C302.301 132 322 151.699 322 176V176C322 200.301 302.301 220 278 220H214C189.699 220 170 200.301 170 176V176Z" fill="#ffffff" fill-opacity="0.18"/>
+  <text x="96" y="70" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">MICHAEL ACOSTA</text>
+  <text x="96" y="122" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Full Stack Developer</text>
+  <text x="96" y="164" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Building thoughtful software, scalable systems, and modern web experiences.</text>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="24" x2="1176" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+  </defs>
+</svg>

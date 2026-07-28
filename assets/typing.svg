@@ -1,0 +1,9 @@
+<svg width="900" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="80" rx="16" fill="#F8FAFC"/>
+  <text x="36" y="50" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
+    <tspan id="typed">Software engineer · AI enthusiast · Builder</tspan>
+  </text>
+  <rect x="710" y="24" width="24" height="32" rx="4" fill="#111827">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
