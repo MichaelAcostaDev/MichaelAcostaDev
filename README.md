@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/MichaelAcostaDev"><img src="https://img.shields.io/badge/GitHub-MichaelAcostaDev-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/michael-acosta-dev"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Acosta-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MichaelAcostaDev/MichaelAcostaDev"><img src="https://img.shields.io/badge/Portfolio-Repository-6C63FF" alt="Portfolio" /></a>
+  <a href="https://github.com/MichaelAcostaDev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Repositories-6C63FF" alt="Portfolio" /></a>
   <a href="mailto:michaelacostafreelancer@gmail.com"><img src="https://img.shields.io/badge/Email-michaelacostafreelancer-FF5A5F?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -120,25 +120,31 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAcostaDev&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_radius=16&count_private=true" alt="GitHub stats" width="440" />
-  <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&border=0&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="440" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&hide_border=true&langs_count=8&theme=github_dark&card_width=920" alt="Most used languages" width="920" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff" alt="Contribution graph" width="920" />
-</p>
-
-<table align="center" cellspacing="0" cellpadding="8">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td width="50%" valign="top" align="center" style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MichaelAcostaDev&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&count_private=true&border_radius=16" alt="GitHub stats" width="100%" style="max-width: 440px; height: auto;" />
+    </td>
+    <td width="50%" valign="top" align="center" style="padding: 8px;">
+      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="100%" style="max-width: 440px; height: auto;" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0f172a&card_width=920" alt="Most used languages" width="100%" style="max-width: 920px; height: auto;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff" alt="Contribution graph" width="100%" style="max-width: 920px; height: auto;" />
+</p>
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" align="center" style="padding: 8px;">
       <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
     </td>
-    <td align="center">
+    <td valign="top" align="center" style="padding: 8px;">
       <img src="https://github-profile-trophy.vercel.app/?username=MichaelAcostaDev&theme=gruvbox&no-frame=true&column=4" alt="GitHub trophies" />
     </td>
   </tr>
