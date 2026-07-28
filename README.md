@@ -121,25 +121,28 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAcostaDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=MichaelAcostaDev&theme=github-dark&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAcostaDev&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_radius=16&count_private=true" alt="GitHub stats" width="440" />
+  <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&border=0&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="440" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=480" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&hide_border=true&langs_count=8&theme=github_dark&card_width=920" alt="Most used languages" width="920" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff" alt="Contribution graph" width="920" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MichaelAcostaDev&theme=gruvbox&no-frame=true&row=2&column=6" alt="GitHub trophies" />
-</p>
+<table align="center" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=MichaelAcostaDev&theme=gruvbox&no-frame=true&column=4" alt="GitHub trophies" />
+    </td>
+  </tr>
+</table>
 
 ---
 
