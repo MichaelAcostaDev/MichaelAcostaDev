@@ -1,9 +1,10 @@
-<svg width="900" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="80" rx="16" fill="#F8FAFC"/>
-  <text x="36" y="50" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
-    <tspan id="typed">Software engineer · AI enthusiast · Builder</tspan>
+<svg width="980" height="96" viewBox="0 0 980 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="96" rx="18" fill="#0F172A"/>
+  <rect x="20" y="20" width="940" height="56" rx="14" fill="#111827" stroke="#1E3A8A" stroke-opacity="0.4"/>
+  <text x="40" y="58" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
+    <tspan>Software Engineering · AI Integration · Clean Architecture</tspan>
   </text>
-  <rect x="710" y="24" width="24" height="32" rx="4" fill="#111827">
+  <rect x="900" y="34" width="24" height="28" rx="4" fill="#38BDF8">
     <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
   </rect>
 </svg>
