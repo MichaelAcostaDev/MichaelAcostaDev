@@ -126,8 +126,8 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
-    <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
-      <img src="https://streak-stats.demolab.com/?user=MichaelAcostaDev&theme=dark&hide_border=true" alt="GitHub Streak" style="width:100%; height:auto;" />
+    <td width="50%" valign="top" align="center" style="padding: 8px;">
+      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="100%" style="max-width: 440px; height: auto;" />
     </td>
     <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&theme=dark" alt="GitHub statistics" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
