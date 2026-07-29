@@ -127,7 +127,7 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
     <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
-      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&amp;theme=dark&amp;hide_border=true&amp;background=0f172a" alt="GitHub streak" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MichaelAcostaDev&amp;theme=dark&amp;hide_border=true" alt="GitHub streak" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
     </td>
     <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&amp;theme=dark" alt="GitHub statistics" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
@@ -143,6 +143,10 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
   <a href="https://github.com/MichaelAcostaDev" style="text-decoration:none;">
     <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&amp;color=38bdf8&amp;style=flat-square&amp;label=Profile+Views" alt="Profile views" />
   </a>
+</p>
+
+<p align="center" style="margin:0 0 36px;">
+  <img src="https://img.shields.io/badge/GitHub-Trophies-38bdf8?logo=github&logoColor=white&style=flat-square" alt="GitHub trophies" />
 </p>
 
 ---
