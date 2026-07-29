@@ -120,27 +120,29 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ## GitHub Analytics
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<p align="center" style="margin: 24px 0 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0f172a&amp;color=38bdf8&amp;line=60a5fa&amp;point=ffffff" alt="Contribution mountain" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
+</p>
+
+<table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
-    <td width="34%" valign="top" align="center" style="padding: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelAcostaDev&theme=dark" alt="GitHub profile summary" width="100%" style="max-width: 360px; height: auto; border-radius: 18px;" />
+    <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
+      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&amp;theme=dark&amp;hide_border=true&amp;background=0f172a" alt="GitHub streak" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
     </td>
-    <td width="33%" valign="top" align="center" style="padding: 10px;">
-      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&background=0f172a" alt="GitHub streak" width="100%" style="max-width: 360px; height: auto; border-radius: 18px;" />
-    </td>
-    <td width="33%" valign="top" align="center" style="padding: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&theme=dark" alt="GitHub statistics" width="100%" style="max-width: 360px; height: auto; border-radius: 18px;" />
+    <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&amp;theme=dark" alt="GitHub statistics" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
     </td>
   </tr>
 </table>
 
-<p align="center" style="margin-top: 12px;">
-  <a href="https://github.com/MichaelAcostaDev"><img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" style="margin-right: 6px;" /></a>
-  <img src="https://img.shields.io/badge/GitHub-Trophies-38bdf8?logo=github&logoColor=white&style=flat-square" alt="GitHub trophies" />
+<p align="center" style="margin:22px 0 24px;">
+  <img src="https://raw.githubusercontent.com/MichaelAcostaDev/MichaelAcostaDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
 </p>
 
-<p align="center" style="margin-top: 16px;">
-  <img src="https://raw.githubusercontent.com/MichaelAcostaDev/MichaelAcostaDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" style="max-width: 720px; height: auto; border-radius: 18px;" />
+<p align="center" style="margin:18px 0 36px;">
+  <a href="https://github.com/MichaelAcostaDev" style="text-decoration:none;">
+    <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&amp;color=38bdf8&amp;style=flat-square&amp;label=Profile+Views" alt="Profile views" />
+  </a>
 </p>
 
 ---
