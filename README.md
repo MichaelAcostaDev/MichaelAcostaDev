@@ -122,21 +122,25 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <!-- <td width="50%" valign="top" align="center" style="padding: 8px;">
-      <img src="https://github-readme-stats-chi-brown.vercel.app/api?username=MichaelAcostaDev&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&count_private=true&theme=dark" alt="GitHub stats" width="100%" style="max-width: 440px; height: auto;" />
-    </td> -->
     <td width="50%" valign="top" align="center" style="padding: 8px;">
-      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="100%" style="max-width: 440px; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MichaelAcostaDev&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&count_private=true&theme=dark" alt="GitHub stats" width="100%" style="max-width: 440px; height: auto;" />
+    </td>
+    <td width="50%" valign="top" align="center" style="padding: 8px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MichaelAcostaDev&theme=dark&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&background=0f172a" alt="GitHub streak" width="100%" style="max-width: 440px; height: auto;" />
     </td>
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-chi-brown.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&show_icons=true&hide=html,css" alt="Most used languages" width="100%" style="max-width: 920px; height: auto;" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&show_icons=true&hide=html,css" alt="Most used languages" width="100%" style="max-width: 920px; height: auto;" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff" alt="Contribution graph" width="100%" style="max-width: 920px; height: auto;" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MichaelAcostaDev/output/dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" style="max-width: 920px; height: auto;" />
 </p>
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
@@ -145,7 +149,7 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
       <img src="https://komarev.com/ghpvc/?username=MichaelAcostaDev&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
     </td>
     <td valign="top" align="center" style="padding: 8px;">
-      <img src="https://img.shields.io/badge/Trophies-Not%20available%20right%20now-0F172A?logo=github&logoColor=white&labelColor=0F172A&color=38bdf8" alt="GitHub trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MichaelAcostaDev&theme=dark" alt="GitHub trophies" width="100%" style="max-width: 440px; height: auto;" />
     </td>
   </tr>
 </table>
