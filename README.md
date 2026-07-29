@@ -120,9 +120,9 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ## GitHub Analytics
 
-<p align="center" style="margin: 24px 0 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAcostaDev&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0f172a&amp;color=38bdf8&amp;line=60a5fa&amp;point=ffffff" alt="Contribution mountain" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
-</p>
+ <p align="center" style="margin: 24px 0 20px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelAcostaDev&theme=dark" alt="GitHub profile summary" width="100%" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
+    </p>
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
@@ -150,24 +150,28 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 ## Featured Projects
 
 ### Space Invaders
+
 A remastered version of the original 1978 game built with Ruby and Sinatra.
 
 - Technologies: Ruby, Sinatra, JavaScript
 - Repository: [View repository](https://github.com/MichaelAcostaDev/Space_invaders)
 
 ### UpTask MVC
+
 Deployment of the UpTask project using Model, View, Controller.
 
 - Technologies: PHP, MVC, HTML5, CSS3
 - Repository: [View repository](https://github.com/MichaelAcostaDev/UpTask_MVC)
 
 ### App Salon MVC PHP
+
 Deployment of the App Salon MVC PHP project.
 
 - Technologies: PHP, MVC, HTML5, CSS3
 - Repository: [View repository](https://github.com/MichaelAcostaDev/app-salon-mvc-php)
 
 ### 2048
+
 Deployment of a version of the 2048 game built with Ruby and a bit of vibe coding.
 
 - Technologies: Ruby, JavaScript
