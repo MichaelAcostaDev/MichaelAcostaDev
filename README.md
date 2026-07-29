@@ -126,9 +126,7 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
-    <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=MichaelAcostaDev&amp;theme=dark&amp;hide_border=true" alt="GitHub streak" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
-    </td>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelAcostaDev&theme=dark&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=MichaelAcostaDev&theme=dark&hide_border=true)
     <td style="width:50%; padding:10px; vertical-align:top; text-align:center;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&amp;theme=dark" alt="GitHub statistics" style="width:100%; max-width:440px; height:auto; border-radius:18px;" />
     </td>
