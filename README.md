@@ -120,24 +120,17 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ## GitHub Analytics
 
-<p align="center" style="margin: 24px 0 20px;">
-  <img src="https://raw.githubusercontent.com/MichaelAcostaDev/MichaelAcostaDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
-</p>
+ <p align="center" style="margin: 24px 0 20px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelAcostaDev&theme=dark" alt="GitHub profile summary" width="100%" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
+    </p>
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
-    <td width="33%" valign="top" align="center" style="padding:10px;">
-      <a href="https://github.com/MichaelAcostaDev" style="text-decoration:none;">
-        <img src="https://img.shields.io/github/followers/MichaelAcostaDev?label=Followers&style=flat-square&logo=github&color=181717" alt="GitHub Followers" width="100%" style="max-width:280px; height:auto; border-radius:10px;" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center" style="padding:10px;">
-      <a href="https://github.com/MichaelAcostaDev" style="text-decoration:none;">
-        <img src="https://img.shields.io/github/stars/MichaelAcostaDev?label=Stars&style=flat-square&logo=github&color=181717" alt="GitHub Stars" width="100%" style="max-width:280px; height:auto; border-radius:10px;" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center" style="padding:10px;">
-      <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true" alt="GitHub streak" width="100%" style="max-width:280px; height:auto; border-radius:10px;" />
+<td width="50%" valign="top" align="center" style="padding:10px;">
+  <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true" alt="GitHub streak" width="100%" style="max-width:440px; height:auto;" />
+</td>
+    <td width="50%" valign="top" align="center" style="padding:10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&theme=dark" alt="GitHub statistics" width="100%" style="max-width:480px; height:auto; border-radius:10px;" />
     </td>
   </tr>
 </table>
