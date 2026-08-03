@@ -122,9 +122,9 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
-<td>
+<td style="width: 500px; text-align: center;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MichaelAcostaDev&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" style="max-width: 100%; height: auto;">
+    <img src="https://streak-stats.demolab.com/?user=MichaelAcostaDev&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" style="width: 100%; height: auto;">
   </a>
 </td>
 <td>
