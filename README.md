@@ -120,18 +120,12 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ## GitHub Analytics
 
- <p align="center" style="margin: 24px 0 20px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelAcostaDev&theme=dark" alt="GitHub profile summary" width="100%" style="width:100%; max-width:920px; height:auto; border-radius:18px;" />
-    </p>
-
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
   <tr>
 <td width="50%" valign="top" align="center" style="padding:10px;">
   <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true" alt="GitHub streak" width="100%" style="max-width:440px; height:auto;" />
 </td>
-    <td width="50%" valign="top" align="center" style="padding:10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelAcostaDev&theme=dark" alt="GitHub statistics" width="100%" style="max-width:480px; height:auto; border-radius:10px;" />
-    </td>
+![Metrics](https://metrics.lecoq.io/MichaelAcostaDev?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&followup=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=20&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=America%2FSanto_Domingo&config.display=columns)
   </tr>
 </table>
 
