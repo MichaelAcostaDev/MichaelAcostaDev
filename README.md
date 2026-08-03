@@ -124,7 +124,7 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
   <tr>
 <td>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MichaelAcostaDev&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" style="max-width: 100%; height: auto;">
+    <img src="https://streak-stats.demolab.com/?user=MichaelAcostaDev&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" style="max-width: 100%; height: auto;">
   </a>
 </td>
 <td>
