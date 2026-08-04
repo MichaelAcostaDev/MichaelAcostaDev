@@ -21,13 +21,13 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me 
 
 I am a Full Stack Developer from the Dominican Republic focused on building reliable software, clear architecture, and thoughtful product experiences. My work combines backend discipline, modern frontend execution, and a consistent commitment to clean engineering.
 
 ---
 
-## Current Focus
+## 📌 Current Focus
 
 - Software Architecture
 - Full Stack Development
@@ -40,41 +40,59 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### Frontend
+### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/AJAX-00599C?logo=jquery&logoColor=white" alt="AJAX" />
-  <img src="https://img.shields.io/badge/DOM%20API-4A4A4A?logo=javascript&logoColor=white" alt="DOM API" />
-  <img src="https://img.shields.io/badge/Fetch%20API-4C4C4C?logo=javascript&logoColor=white" alt="Fetch API" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-### Backend
+### Databases & Cloud & DevOps & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/MVC-6A5ACD" alt="MVC" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Authentication-4CAF50" alt="Authentication" />
-  <img src="https://img.shields.io/badge/Sessions%20%26%20Cookies-FF9800" alt="Sessions and cookies" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+    <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer" />
 </p>
 
 ### Architecture
@@ -97,27 +115,6 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
   <img src="https://img.shields.io/badge/LLM%20Workflows-EC4899" alt="LLM workflows" />
 </p>
 
-### Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
----
-
 ## GitHub Analytics
 
 <table style="width:100%; max-width:920px; margin:0 auto 16px; border-collapse:collapse;">
@@ -128,7 +125,7 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
     </a>
   </td>
 <td>
-  <img src="https://metrics.lecoq.io/MichaelAcostaDev?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&followup=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=20&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=America%2FSanto_Domingo&config.display=columns" alt="Metrics" width="800" height="600" style="max-width: 100%; height: auto;">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MichaelAcostaDev&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" width="800" height="600" style="max-width: 100%; height: auto;" />
 </td>
   </tr>
 </table>
@@ -146,38 +143,6 @@ I am a Full Stack Developer from the Dominican Republic focused on building reli
 <p align="center" style="margin:0 0 36px;">
   <img src="https://img.shields.io/badge/GitHub-Trophies-38bdf8?logo=github&logoColor=white&style=flat-square" alt="GitHub trophies" />
 </p>
-
----
-
-## Featured Projects
-
-### Space Invaders
-
-A remastered version of the original 1978 game built with Ruby and Sinatra.
-
-- Technologies: Ruby, Sinatra, JavaScript
-- Repository: [View repository](https://github.com/MichaelAcostaDev/Space_invaders)
-
-### UpTask MVC
-
-Deployment of the UpTask project using Model, View, Controller.
-
-- Technologies: PHP, MVC, HTML5, CSS3
-- Repository: [View repository](https://github.com/MichaelAcostaDev/UpTask_MVC)
-
-### App Salon MVC PHP
-
-Deployment of the App Salon MVC PHP project.
-
-- Technologies: PHP, MVC, HTML5, CSS3
-- Repository: [View repository](https://github.com/MichaelAcostaDev/app-salon-mvc-php)
-
-### 2048
-
-Deployment of a version of the 2048 game built with Ruby and a bit of vibe coding.
-
-- Technologies: Ruby, JavaScript
-- Repository: [View repository](https://github.com/MichaelAcostaDev/2048)
 
 ---
 
@@ -199,7 +164,7 @@ I value thoughtful collaboration, clear documentation, and practical engineering
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MichaelAcostaDev"><img src="https://img.shields.io/badge/GitHub-MichaelAcostaDev-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/michael-acosta-dev"><img src="https://img.shields.io/badge/LinkedIn-Michael%20Acosta-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MichaelAcostaDev/MichaelAcostaDev"><img src="https://img.shields.io/badge/Portfolio-Repository-6C63FF" alt="Portfolio" /></a>
