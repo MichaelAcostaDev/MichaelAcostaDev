@@ -12111,7 +12111,11 @@
         "width": 800,
         "height": 72
       },
-      "config": {},
+      "config": {
+        "showTitle": false,
+        "hideDecorations": false,
+        "hideBorder": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 20
@@ -12169,6 +12173,30 @@
       "locked": false,
       "visible": true,
       "zIndex": 21
+    },
+    {
+      "instanceId": "widget_1786817675697",
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 662,
+        "y": 2006
+      },
+      "size": {
+        "width": 128,
+        "height": 136
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif",
+        "src": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif",
+        "url": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif",
+        "hideDecorations": true,
+        "showTitle": false,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 20
     }
   ],
   "globalStyles": {
