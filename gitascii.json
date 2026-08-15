@@ -11942,15 +11942,7 @@
             "image": "https://assets.tcgdex.net/en/ecard/ecard1/48"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/high.webp",
-        "rotateX": 0,
-        "rotateY": 0,
-        "glareX": 50,
-        "glareY": 50,
-        "shineX": 50,
-        "shineY": 50,
-        "intensity": 1,
-        "scale": 1
+        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/high.webp"
       },
       "locked": false,
       "visible": true,
@@ -12121,16 +12113,16 @@
       "zIndex": 20
     },
     {
-      "instanceId": "widget_1786801166754",
+      "instanceId": "widget_1786800599218",
       "widgetId": "custom-image",
       "name": "Custom-image Widget",
       "position": {
-        "x": 130,
+        "x": 152,
         "y": 504
       },
       "size": {
-        "width": 544,
-        "height": 312
+        "width": 496,
+        "height": 296
       },
       "config": {
         "sourceType": "url",
