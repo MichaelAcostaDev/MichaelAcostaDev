@@ -11942,7 +11942,15 @@
             "image": "https://assets.tcgdex.net/en/ecard/ecard1/48"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/high.webp",
+        "rotateX": 0,
+        "rotateY": 0,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "intensity": 1,
+        "scale": 1
       },
       "locked": false,
       "visible": true,
