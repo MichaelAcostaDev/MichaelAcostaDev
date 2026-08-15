@@ -11800,7 +11800,15 @@
         "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/high.webp",
         "animationType": "none",
         "animationPreviewKey": 2,
-        "lockAspectRatio": false
+        "lockAspectRatio": false,
+        "rotateX": 0,
+        "rotateY": 0,
+        "glareX": 50,
+        "glareY": 50,
+        "shineX": 50,
+        "shineY": 50,
+        "intensity": 1,
+        "scale": 1
       },
       "locked": false,
       "visible": true,
@@ -12069,9 +12077,7 @@
         "width": 390,
         "height": 210
       },
-      "config": {
-        "customTitle": "GITHUB STREAK"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 19
@@ -12088,9 +12094,7 @@
         "width": 390,
         "height": 350
       },
-      "config": {
-        "customTitle": ""
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 20
@@ -12113,26 +12117,58 @@
       "zIndex": 20
     },
     {
-      "instanceId": "widget_1786800599218",
+      "instanceId": "widget_1786810935198",
       "widgetId": "custom-image",
       "name": "Custom-image Widget",
       "position": {
-        "x": 152,
-        "y": 504
+        "x": 720,
+        "y": 1088
       },
       "size": {
-        "width": 496,
-        "height": 296
+        "width": 50,
+        "height": 50
       },
       "config": {
-        "sourceType": "url",
-        "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY3MjU5N3dzb2I5cHBibnprZmJhZGk3bmc5OWNvN3l4NXI5OXB1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/137EaR4vAOCn1S/giphy.gif",
-        "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY3MjU5N3dzb2I5cHBibnprZmJhZGk3bmc5OWNvN3l4NXI5OXB1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/137EaR4vAOCn1S/giphy.gif",
-        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY3MjU5N3dzb2I5cHBibnprZmJhZGk3bmc5OWNvN3l4NXI5OXB1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/137EaR4vAOCn1S/giphy.gif"
+        "sourceType": "suggestions",
+        "targetUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUwNXhmamhvZXB5YnR2b2dzNGRocm9wMzJmdzhqa2s4eWh5bzV5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3fNmJ20ErpkjK/giphy.gif",
+        "href": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUwNXhmamhvZXB5YnR2b2dzNGRocm9wMzJmdzhqa2s4eWh5bzV5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3fNmJ20ErpkjK/giphy.gif",
+        "imageUrl": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif",
+        "src": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif",
+        "url": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif",
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
-      "zIndex": 18
+      "zIndex": 19
+    },
+    {
+      "instanceId": "widget_1786811228962",
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 164,
+        "y": 504
+      },
+      "size": {
+        "width": 500,
+        "height": 281
+      },
+      "config": {
+        "sourceType": "url",
+        "targetUrl": "https://tenor.com/eCPO7ROYPfY.gif",
+        "href": "https://tenor.com/eCPO7ROYPfY.gif",
+        "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
+        "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
+        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 21
     }
   ],
   "globalStyles": {
@@ -12141,7 +12177,7 @@
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
+    "borderRadius": 13,
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "terminal",
