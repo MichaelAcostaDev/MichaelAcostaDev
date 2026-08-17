@@ -12205,7 +12205,9 @@
         "width": 200,
         "height": 96
       },
-      "config": {},
+      "config": {
+        "hideDecorations": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 21
