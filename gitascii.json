@@ -12148,33 +12148,6 @@
       "zIndex": 19
     },
     {
-      "instanceId": "widget_1786811228962",
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
-      "position": {
-        "x": 164,
-        "y": 506
-      },
-      "size": {
-        "width": 500,
-        "height": 281
-      },
-      "config": {
-        "sourceType": "url",
-        "targetUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
-        "href": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
-        "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
-        "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
-        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzcHJuZTY5MXNpc3Fhd3Roc2o3MmV6b2x3cWVscHV0YWd5Y3Q4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4fCFRodZ5tJu0/giphy.gif",
-        "showTitle": false,
-        "hideDecorations": true,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 21
-    },
-    {
       "instanceId": "widget_1786817675697",
       "widgetId": "custom-image",
       "name": "Custom-image Widget",
@@ -12197,6 +12170,90 @@
       "locked": false,
       "visible": true,
       "zIndex": 20
+    },
+    {
+      "instanceId": "widget_1786987896972",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 488
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "noBg": true,
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 20
+    },
+    {
+      "instanceId": "widget_1786987943330",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
+      "position": {
+        "x": 422,
+        "y": 2026
+      },
+      "size": {
+        "width": 200,
+        "height": 96
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 21
+    },
+    {
+      "instanceId": "widget_1786988229996",
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 32,
+        "y": 674
+      },
+      "size": {
+        "width": 136,
+        "height": 152
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
+        "src": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
+        "url": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 22
+    },
+    {
+      "instanceId": "widget_1786988296611",
+      "widgetId": "activity-graph",
+      "name": "Activity-graph Widget",
+      "position": {
+        "x": 246,
+        "y": 643
+      },
+      "size": {
+        "width": 544,
+        "height": 200
+      },
+      "config": {
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 23
     }
   ],
   "globalStyles": {
