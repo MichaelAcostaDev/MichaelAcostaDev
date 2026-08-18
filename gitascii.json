@@ -12071,11 +12071,11 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 402,
-        "y": 1794
+        "y": 1792
       },
       "size": {
         "width": 390,
-        "height": 210
+        "height": 176
       },
       "config": {
         "showTitle": false,
