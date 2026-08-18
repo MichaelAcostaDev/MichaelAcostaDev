@@ -12070,14 +12070,17 @@
       "widgetId": "streak-stats",
       "name": "Streak-stats Widget",
       "position": {
-        "x": 410,
-        "y": 1792
+        "x": 402,
+        "y": 1794
       },
       "size": {
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "showTitle": false,
+        "hideDecorations": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 19
