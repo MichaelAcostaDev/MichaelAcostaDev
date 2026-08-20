@@ -12244,11 +12244,11 @@
       "widgetId": "activity-graph",
       "name": "Activity-graph Widget",
       "position": {
-        "x": 246,
-        "y": 643
+        "x": 248,
+        "y": 647
       },
       "size": {
-        "width": 544,
+        "width": 496,
         "height": 200
       },
       "config": {
