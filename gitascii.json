@@ -21,8 +21,8 @@
     {
       "widgetId": "ascii-art",
       "position": {
-        "x": 8,
-        "y": 106
+        "x": 63,
+        "y": 122
       },
       "size": {
         "width": 280,
@@ -11522,47 +11522,6 @@
       "name": "Ascii-art Widget"
     },
     {
-      "widgetId": "terminal-info",
-      "position": {
-        "x": 288,
-        "y": 106
-      },
-      "size": {
-        "width": 504,
-        "height": 280
-      },
-      "config": {
-        "showLocation": false,
-        "showCompany": false,
-        "showLanguages": false,
-        "showJoined": false,
-        "showFollowing": true,
-        "showWebsite": true,
-        "showGithub": true,
-        "showEmail": true,
-        "showHighlights": false,
-        "showPronouns": true,
-        "showAchievements": false,
-        "showStatus": false,
-        "showTimezone": true,
-        "hideDecorations": false,
-        "hideBorder": false,
-        "showTitle": false,
-        "showRepos": true,
-        "showGists": true,
-        "animationType": "typewriter",
-        "animationPreviewKey": 6,
-        "animationDuration": 2000,
-        "animationEasing": "ease-out",
-        "lockAspectRatio": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1786746612826_2",
-      "name": "Terminal-info Widget"
-    },
-    {
       "instanceId": "widget_1786746878319",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
@@ -11988,7 +11947,32 @@
         "height": 120
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#b6a891",
+        "marqueeLangs": [
+          "react",
+          "ts",
+          "js",
+          "html",
+          "css",
+          "nodejs",
+          "python",
+          "git",
+          "docker",
+          "linux",
+          "sass",
+          "npm",
+          "figma",
+          "postman",
+          "vscode",
+          "githubactions",
+          "apache",
+          "vercel",
+          "github",
+          "laravel",
+          "r",
+          "ruby",
+          "php"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -12084,23 +12068,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 19
-    },
-    {
-      "instanceId": "widget_1786748749018",
-      "widgetId": "ghstats",
-      "name": "Ghstats Widget",
-      "position": {
-        "x": 8,
-        "y": 1792
-      },
-      "size": {
-        "width": 390,
-        "height": 350
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 20
     },
     {
       "instanceId": "widget_1786748904652",
@@ -12257,6 +12224,58 @@
         "showTitle": false,
         "enableHolo": false,
         "country": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 24
+    },
+    {
+      "instanceId": "widget_1788059528591",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 412,
+        "y": 76
+      },
+      "size": {
+        "width": 364,
+        "height": 364
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d",
+        "customName": "MichaelAcostaDev",
+        "customRoles": "Full Stack Developer, Linux User, Turning coffee into code,",
+        "showWebsite": false,
+        "showRoles": true,
+        "showUptime": true,
+        "showTerminalPrompt": true,
+        "repoSortBy": "updated",
+        "animated": false,
+        "showLocation": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 24
+    },
+    {
+      "instanceId": "widget_1788060245792",
+      "widgetId": "godprofile-globe",
+      "name": "Godprofile-globe Widget",
+      "position": {
+        "x": 43,
+        "y": 1784
+      },
+      "size": {
+        "width": 320,
+        "height": 350
+      },
+      "config": {
+        "accentColor": "#b6a891"
       },
       "locked": false,
       "visible": true,
