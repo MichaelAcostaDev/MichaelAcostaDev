@@ -12216,49 +12216,51 @@
       "zIndex": 21
     },
     {
-      "instanceId": "widget_1786988229996",
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
+      "instanceId": "widget_1788058306088",
+      "widgetId": "winxp-error-dialog",
+      "name": "Winxp-error-dialog Widget",
       "position": {
-        "x": 32,
-        "y": 674
+        "x": 296,
+        "y": 656
       },
       "size": {
-        "width": 136,
-        "height": 152
+        "width": 480,
+        "height": 179
       },
       "config": {
-        "imageUrl": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
-        "src": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
-        "url": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif",
-        "showTitle": false,
-        "hideDecorations": true,
-        "hideBorder": true
+        "themePreset": "Metallic (Silver)",
+        "titleGradientStart": "#787782",
+        "titleGradientEnd": "#b5b4be",
+        "lockAspectRatio": false,
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
-      "zIndex": 22
+      "zIndex": 26
     },
     {
-      "instanceId": "widget_1786988296611",
-      "widgetId": "activity-graph",
-      "name": "Activity-graph Widget",
+      "instanceId": "widget_1788058543225",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
       "position": {
-        "x": 248,
-        "y": 647
+        "x": 84,
+        "y": 646.75
       },
       "size": {
-        "width": 496,
-        "height": 200
+        "width": 196,
+        "height": 198.25
       },
       "config": {
+        "transparentBackground": true,
+        "hideBorder": false,
+        "hideDecorations": false,
         "showTitle": false,
-        "hideDecorations": true,
-        "hideBorder": true
+        "enableHolo": false,
+        "country": ""
       },
       "locked": false,
       "visible": true,
-      "zIndex": 23
+      "zIndex": 24
     }
   ],
   "globalStyles": {
