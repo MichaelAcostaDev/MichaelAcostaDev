@@ -11637,126 +11637,106 @@
         "searchCards": [
           {
             "id": "basep-3",
-            "localId": "3",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/3"
-          },
-          {
-            "id": "ru1-9",
-            "localId": "9",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/pl/ru1/9"
+            "image": "https://assets.tcgdex.net/en/base/basep/3/low.webp"
           },
           {
             "id": "dp5-9",
-            "localId": "9",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/dp/dp5/9"
+            "image": "https://assets.tcgdex.net/en/dp/dp5/9/low.webp"
+          },
+          {
+            "id": "ru1-9",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/9/low.webp"
           },
           {
             "id": "base4-10",
-            "localId": "10",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/base4/10"
+            "image": "https://assets.tcgdex.net/en/base/base4/10/low.webp"
           },
           {
             "id": "base1-10",
-            "localId": "10",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/base1/10"
+            "image": "https://assets.tcgdex.net/en/base/base1/10/low.webp"
           },
           {
             "id": "P-A-010",
-            "localId": "010",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/010"
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp"
           },
           {
             "id": "dp6-11",
-            "localId": "11",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/dp/dp6/11"
+            "image": "https://assets.tcgdex.net/en/dp/dp6/11/low.webp"
           },
           {
             "id": "basep-12",
-            "localId": "12",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/12"
+            "image": "https://assets.tcgdex.net/en/base/basep/12/low.webp"
           },
           {
             "id": "det1-12",
-            "localId": "12",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/sm/det1/12"
+            "image": "https://assets.tcgdex.net/en/sm/det1/12/low.webp"
           },
           {
             "id": "ex11-12",
-            "localId": "12",
             "name": "Mewtwo δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex11/12"
-          },
-          {
-            "id": "basep-14",
-            "localId": "14",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/14"
+            "image": "https://assets.tcgdex.net/en/ex/ex11/12/low.webp"
           },
           {
             "id": "gym2-14",
-            "localId": "14",
             "name": "Rocket's Mewtwo",
-            "image": "https://assets.tcgdex.net/en/gym/gym2/14"
+            "image": "https://assets.tcgdex.net/en/gym/gym2/14/low.webp"
+          },
+          {
+            "id": "basep-14",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/basep/14/low.webp"
           },
           {
             "id": "ecard1-20",
-            "localId": "20",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/20"
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/20/low.webp"
           },
           {
             "id": "ex13-24",
-            "localId": "24",
             "name": "Mewtwo δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex13/24"
+            "image": "https://assets.tcgdex.net/en/ex/ex13/24/low.webp"
           },
           {
             "id": "lc-29",
-            "localId": "29",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/lc/lc/29"
+            "image": "https://assets.tcgdex.net/en/lc/lc/29/low.webp"
           },
           {
             "id": "swsh10.5-030",
-            "localId": "030",
             "name": "Mewtwo V",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/030"
-          },
-          {
-            "id": "sm115-31",
-            "localId": "31",
-            "name": "Mewtwo GX",
-            "image": "https://assets.tcgdex.net/en/sm/sm115/31"
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp"
           },
           {
             "id": "swsh10.5-031",
-            "localId": "031",
             "name": "Mewtwo VSTAR",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/031"
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/low.webp"
+          },
+          {
+            "id": "sm115-31",
+            "name": "Mewtwo GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/31/low.webp"
           },
           {
             "id": "P-A-050",
-            "localId": "050",
             "name": "Mewtwo ex",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/050"
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/050/low.webp"
           },
           {
             "id": "xy12-51",
-            "localId": "51",
             "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/xy/xy12/51"
+            "image": "https://assets.tcgdex.net/en/xy/xy12/51/low.webp"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/high.webp",
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp",
         "animationType": "none",
         "animationPreviewKey": 2,
         "lockAspectRatio": false,
@@ -11767,7 +11747,9 @@
         "shineX": 50,
         "shineY": 50,
         "intensity": 1,
-        "scale": 1
+        "scale": 1,
+        "enableHolo": false,
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp"
       },
       "locked": false,
       "visible": true,
@@ -11786,130 +11768,112 @@
         "height": 418
       },
       "config": {
-        "searchQuery": "Rayquaza",
+        "searchQuery": "Gengar",
         "searchCards": [
           {
-            "id": "pop1-3",
-            "localId": "3",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/pop/pop1/3"
+            "id": "base3-5",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/base/base3/5/low.webp"
           },
           {
-            "id": "pl3-8",
-            "localId": "8",
-            "name": "Rayquaza C",
-            "image": "https://assets.tcgdex.net/en/pl/pl3/8"
+            "id": "ex12-5",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/ex/ex12/5/low.webp"
           },
           {
-            "id": "ex9-9",
-            "localId": "9",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/ex/ex9/9"
+            "id": "neo4-6",
+            "name": "Dark Gengar",
+            "image": "https://assets.tcgdex.net/en/neo/neo4/6/low.webp"
           },
           {
-            "id": "dv1-11",
-            "localId": "11",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/bw/dv1/11"
+            "id": "ecard3-10",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard3/10/low.webp"
           },
           {
-            "id": "ex11-13",
-            "localId": "13",
-            "name": "Rayquaza δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex11/13"
+            "id": "lc-11",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/lc/lc/11/low.webp"
           },
           {
-            "id": "dp6-14",
-            "localId": "14",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/dp/dp6/14"
+            "id": "ecard1-13",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/13/low.webp"
           },
           {
-            "id": "ex13-16",
-            "localId": "16",
-            "name": "Rayquaza δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex13/16"
+            "id": "gym1-14",
+            "name": "Sabrina's Gengar",
+            "image": "https://assets.tcgdex.net/en/gym/gym1/14/low.webp"
           },
           {
-            "id": "col1-20",
-            "localId": "20",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/col/col1/20"
+            "id": "pl4-16",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/16/low.webp"
           },
           {
-            "id": "ex8-22",
-            "localId": "22",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/ex/ex8/22"
+            "id": "pl4-17",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp"
           },
           {
-            "id": "ex13-26",
-            "localId": "26",
-            "name": "Rayquaza δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex13/26"
+            "id": "dp7-18",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/dp/dp7/18/low.webp"
           },
           {
-            "id": "np-39",
-            "localId": "39",
-            "name": "Rayquaza ex",
-            "image": "https://assets.tcgdex.net/en/pop/np/39"
+            "id": "base3-20",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/base/base3/20/low.webp"
           },
           {
-            "id": "xy6-60",
-            "localId": "60",
-            "name": "Rayquaza EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy6/60"
+            "id": "dp1-27",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/dp/dp1/27/low.webp"
           },
           {
-            "id": "xy6-61",
-            "localId": "61",
-            "name": "M Rayquaza EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy6/61"
+            "id": "gym2-29",
+            "name": "Sabrina's Gengar",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/29/low.webp"
           },
           {
-            "id": "P-A-063",
-            "localId": "063",
-            "name": "Rayquaza",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/063"
+            "id": "A2a-033",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/tcgp/A2a/033/low.webp"
           },
           {
-            "id": "P-A-064",
-            "localId": "064",
-            "name": "Rayquaza ex",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/064"
+            "id": "xy4-34",
+            "name": "Gengar EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp"
           },
           {
-            "id": "P-A-065",
-            "localId": "065",
-            "name": "Rayquaza ex",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/065"
+            "id": "xy4-35",
+            "name": "M Gengar EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy4/35/low.webp"
           },
           {
-            "id": "xy6-75",
-            "localId": "75",
-            "name": "Rayquaza EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy6/75"
+            "id": "g1-35",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/xy/g1/35/low.webp"
           },
           {
-            "id": "xy6-76",
-            "localId": "76",
-            "name": "M Rayquaza EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy6/76"
+            "id": "sm4-38",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/sm/sm4/38/low.webp"
           },
           {
-            "id": "bw6-85",
-            "localId": "85",
-            "name": "Rayquaza-EX",
-            "image": "https://assets.tcgdex.net/en/bw/bw6/85"
+            "id": "pl2-40",
+            "name": "Gengar GL",
+            "image": "https://assets.tcgdex.net/en/pl/pl2/40/low.webp"
           },
           {
-            "id": "xy6-87",
-            "localId": "87",
-            "name": "Rayquaza Spirit Link",
-            "image": "https://assets.tcgdex.net/en/xy/xy6/87"
+            "id": "ecard1-48",
+            "name": "Gengar",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/48/low.webp"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/col/col1/20/high.webp"
+        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp",
+        "enableHolo": false,
+        "cardRawUrl": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp"
       },
       "locked": false,
       "visible": true,
