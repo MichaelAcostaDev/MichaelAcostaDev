@@ -12008,7 +12008,38 @@
         "width": 800,
         "height": 260
       },
-      "config": {},
+      "config": {
+        "selectedTechs": [
+          "ts",
+          "html",
+          "css",
+          "py",
+          "php",
+          "ruby",
+          "bash",
+          "react",
+          "sass",
+          "tailwind",
+          "mysql",
+          "linux",
+          "npm"
+        ],
+        "technologies": [
+          "ts",
+          "html",
+          "css",
+          "py",
+          "php",
+          "ruby",
+          "bash",
+          "react",
+          "sass",
+          "tailwind",
+          "mysql",
+          "linux",
+          "npm"
+        ]
+      },
       "locked": false,
       "visible": true,
       "zIndex": 18
