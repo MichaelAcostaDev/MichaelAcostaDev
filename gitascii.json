@@ -11634,9 +11634,9 @@
         "shineY": 50,
         "rotateX": 0,
         "rotateY": 0,
-        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp",
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp",
         "intensity": 1,
-        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp",
         "enableHolo": false,
         "searchCards": [
           {
@@ -11762,8 +11762,8 @@
         "height": 418
       },
       "config": {
-        "imageUrl": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp",
+        "imageUrl": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp",
         "enableHolo": false,
         "searchCards": [
           {
