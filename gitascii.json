@@ -12133,7 +12133,7 @@
       "visible": true,
       "position": {
         "x": 662,
-        "y": 2006
+        "y": 1998
       },
       "widgetId": "custom-image",
       "instanceId": "widget_1786817675697"
@@ -12174,7 +12174,7 @@
       "visible": true,
       "position": {
         "x": 422,
-        "y": 2026
+        "y": 2016
       },
       "widgetId": "views-counter",
       "instanceId": "widget_1786987943330"
@@ -12273,7 +12273,7 @@
       "visible": true,
       "position": {
         "x": 43,
-        "y": 1784
+        "y": 1776
       },
       "widgetId": "godprofile-globe",
       "instanceId": "widget_1788060245792"
