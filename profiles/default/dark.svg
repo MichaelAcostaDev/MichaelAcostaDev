@@ -688,7 +688,7 @@
 <rect class="c-widget_1786748075448" style="animation-delay:1.188s" x="733.9318181818181" y="130.22727272727272" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-19: 0 contributions</title></rect>
 <rect class="c-widget_1786748075448" style="animation-delay:0.936s" x="747.3030303030303" y="50" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-20: 0 contributions</title></rect>
 <rect class="c-widget_1786748075448" style="animation-delay:0.981s" x="747.3030303030303" y="63.371212121212125" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-21: 0 contributions</title></rect>
-<rect class="c-widget_1786748075448" style="animation-delay:1.026s" x="747.3030303030303" y="76.74242424242425" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-09-22: 0 contributions</title></rect>
+<rect class="c-widget_1786748075448" style="animation-delay:1.026s" x="747.3030303030303" y="76.74242424242425" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#0e4429"><title>2026-09-22: 1 contribution</title></rect>
 <text x="640.4469696969697" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="646.4469696969697" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#161b22"/>
 <rect x="659.8181818181819" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#0e4429"/>
@@ -698,7 +698,7 @@
 <rect x="713.3030303030304" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#69f0a0"/>
 <text x="758" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="174.29545454545453" x2="780" y2="174.29545454545453" stroke="#252525" stroke-opacity="0.25"/>
-<text x="22" y="198.29545454545453" font-size="13" fill="#39d353"><tspan font-weight="700">365</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="22" y="198.29545454545453" font-size="13" fill="#39d353"><tspan font-weight="700">366</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
 <text x="758" y="198.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">Sep 21, 2025 &#8594; Sep 22, 2026</text>
 <text x="22" y="222.29545454545453" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">1 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">19 days</tspan></text>
 <text x="758" y="222.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">43</tspan> on Aug 29, 2026</text>
@@ -1277,10 +1277,117 @@
       
       
     
-    <svg width="358" height="144" x="16" y="16" xmlns="http://www.w3.org/2000/svg">
-            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
-            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Streak stats temporarily unavailable</text>
-          </svg>
+    <style>
+@keyframes currstreak {
+                0% { font-size: 3px; opacity: 0.2; }
+                80% { font-size: 34px; opacity: 1; }
+                100% { font-size: 28px; opacity: 1; }
+            }
+            @keyframes fadein {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+</style>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='isolation: isolate' direction='ltr' x="16" y="16" width="358" height="144" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 195">
+        
+        <defs>
+            <clipPath id='outer_rectangle'>
+                <rect width='495' height='195' rx='4'/>
+            </clipPath>
+            <mask id='mask_out_ring_behind_fire'>
+                <rect width='495' height='195' fill='white'/>
+                <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
+            </mask>
+            
+        </defs>
+        <g clip-path='url(#outer_rectangle)'>
+            <g style='isolation: isolate'>
+                <rect stroke='#E4E2E2' fill='#151515' rx='4' x='0.5' y='0.5' width='494' height='194'/>
+            </g>
+            <g style='isolation: isolate'>
+                <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
+                <line x1='330' y1='28' x2='330' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Total Contributions big number -->
+                <g transform='translate(82.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
+                        374
+                    </text>
+                </g>
+
+                <!-- Total Contributions label -->
+                <g transform='translate(82.5, 84)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
+                        Total Contributions
+                    </text>
+                </g>
+
+                <!-- Total Contributions range -->
+                <g transform='translate(82.5, 114)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
+                        Mar 21, 2024 - Present
+                    </text>
+                </g>
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Current Streak label -->
+                <g transform='translate(247.5, 108)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FB8C00' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
+                        Current Streak
+                    </text>
+                </g>
+
+                <!-- Current Streak range -->
+                <g transform='translate(247.5, 145)'>
+                    <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
+                        Sep 22, 2026
+                    </text>
+                </g>
+
+                <!-- Ring around number -->
+                <g mask='url(#mask_out_ring_behind_fire)'>
+                    <circle cx='247.5' cy='71' r='40' fill='none' stroke='#FB8C00' stroke-width='5' style='opacity: 0; animation: fadein 0.5s linear forwards 0.4s'></circle>
+                </g>
+                <!-- Fire icon -->
+                <g transform='translate(247.5, 19.5)' stroke-opacity='0' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
+                    <path d='M -12 -0.5 L 15 -0.5 L 15 23.5 L -12 23.5 L -12 -0.5 Z' fill='none'/>
+                    <path d='M 1.5 0.67 C 1.5 0.67 2.24 3.32 2.24 5.47 C 2.24 7.53 0.89 9.2 -1.17 9.2 C -3.23 9.2 -4.79 7.53 -4.79 5.47 L -4.76 5.11 C -6.78 7.51 -8 10.62 -8 13.99 C -8 18.41 -4.42 22 0 22 C 4.42 22 8 18.41 8 13.99 C 8 8.6 5.41 3.79 1.5 0.67 Z M -0.29 19 C -2.07 19 -3.51 17.6 -3.51 15.86 C -3.51 14.24 -2.46 13.1 -0.7 12.74 C 1.07 12.38 2.9 11.53 3.92 10.16 C 4.31 11.45 4.51 12.81 4.51 14.2 C 4.51 16.85 2.36 19 -0.29 19 Z' fill='#FB8C00' stroke-opacity='0'/>
+                </g>
+
+                <!-- Current Streak big number -->
+                <g transform='translate(247.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
+                        1
+                    </text>
+                </g>
+
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Longest Streak big number -->
+                <g transform='translate(412.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
+                        19
+                    </text>
+                </g>
+
+                <!-- Longest Streak label -->
+                <g transform='translate(412.5, 84)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
+                        Longest Streak
+                    </text>
+                </g>
+
+                <!-- Longest Streak range -->
+                <g transform='translate(412.5, 114)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
+                        Aug 4, 2026 - Aug 22, 2026
+                    </text>
+                </g>
+            </g>
+            
+        </g>
+    </svg>
   
   
     </g>
@@ -1457,7 +1564,7 @@
         width: 0px;
       }
       to {
-        width: 31.733333333333334px;
+        width: 32px;
       }
     }
     #Commits-rank-progress{
@@ -1700,7 +1807,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Hyper Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">319pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">320pt</text>
           
     
     <rect
@@ -2323,7 +2430,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="177"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">44              </tspan><tspan fill="#e5e5e5">34              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#3fb950">365</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">44              </tspan><tspan fill="#e5e5e5">34              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#3fb950">366</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="245"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">MichaelAcostaDev                             </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -2455,7 +2562,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         <g transform="translate(50, 22)">
           <text class="mc-font header-text" x="0" y="0">Challenge Complete!</text>
           <text class="mc-font title-text" x="0" y="17">[The Ultimate Contributor]</text>
-          <text class="mc-font desc-text" x="0" y="32">Craft over 365 commits &amp; contributions</text>
+          <text class="mc-font desc-text" x="0" y="32">Craft over 366 commits &amp; contributions</text>
         </g>
       </g>
     </svg>
