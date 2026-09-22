@@ -12254,7 +12254,7 @@
       "visible": true,
       "position": {
         "x": 412,
-        "y": 76
+        "y": 78
       },
       "widgetId": "premium-ascii-profile-card",
       "instanceId": "widget_1788059528591"
@@ -12292,5 +12292,9 @@
     "transparentBackground": false
   },
   "templateId": "terminal",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790084155104_ol5ot",
+    "updatedAt": "2026-09-22T13:35:57.381Z"
+  }
 }
