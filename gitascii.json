@@ -12180,53 +12180,6 @@
       "instanceId": "widget_1786987943330"
     },
     {
-      "name": "Winxp-error-dialog Widget",
-      "size": {
-        "width": 480,
-        "height": 179
-      },
-      "config": {
-        "showTitle": false,
-        "themePreset": "Metallic (Silver)",
-        "lockAspectRatio": false,
-        "titleGradientEnd": "#b5b4be",
-        "titleGradientStart": "#787782"
-      },
-      "locked": false,
-      "zIndex": 26,
-      "visible": true,
-      "position": {
-        "x": 296,
-        "y": 656
-      },
-      "widgetId": "winxp-error-dialog",
-      "instanceId": "widget_1788058306088"
-    },
-    {
-      "name": "Gitfut-card Widget",
-      "size": {
-        "width": 196,
-        "height": 198.25
-      },
-      "config": {
-        "country": "",
-        "showTitle": false,
-        "enableHolo": false,
-        "hideBorder": false,
-        "hideDecorations": false,
-        "transparentBackground": true
-      },
-      "locked": false,
-      "zIndex": 24,
-      "visible": true,
-      "position": {
-        "x": 84,
-        "y": 646.75
-      },
-      "widgetId": "gitfut-card",
-      "instanceId": "widget_1788058543225"
-    },
-    {
       "name": "Premium-ascii-profile-card Widget",
       "size": {
         "width": 364,
@@ -12277,6 +12230,23 @@
       },
       "widgetId": "godprofile-globe",
       "instanceId": "widget_1788060245792"
+    },
+    {
+      "instanceId": "widget_1790084255987",
+      "widgetId": "minecraft-achievement",
+      "name": "Minecraft-achievement Widget",
+      "position": {
+        "x": 104,
+        "y": 668
+      },
+      "size": {
+        "width": 636,
+        "height": 163
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 26
     }
   ],
   "globalStyles": {
@@ -12294,7 +12264,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790084184446_uf71x",
-    "updatedAt": "2026-09-22T13:36:26.016Z"
+    "revision": "rev_1790084293147_q9euw",
+    "updatedAt": "2026-09-22T13:38:15.581Z"
   }
 }
