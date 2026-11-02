@@ -11762,112 +11762,112 @@
         "height": 418
       },
       "config": {
-        "imageUrl": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp",
+        "imageUrl": "https://assets.tcgdex.net/en/bw/bw6/85/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/bw/bw6/85/low.png",
         "enableHolo": false,
         "searchCards": [
           {
-            "id": "base3-5",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/base/base3/5/low.webp"
+            "id": "pop1-3",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/pop/pop1/3/low.png"
           },
           {
-            "id": "ex12-5",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ex/ex12/5/low.webp"
+            "id": "pl3-8",
+            "name": "Rayquaza C",
+            "image": "https://assets.tcgdex.net/en/pl/pl3/8/low.png"
           },
           {
-            "id": "neo4-6",
-            "name": "Dark Gengar",
-            "image": "https://assets.tcgdex.net/en/neo/neo4/6/low.webp"
+            "id": "ex9-9",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/ex/ex9/9/low.png"
           },
           {
-            "id": "ecard3-10",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard3/10/low.webp"
+            "id": "dv1-11",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/bw/dv1/11/low.png"
           },
           {
-            "id": "lc-11",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/lc/lc/11/low.webp"
+            "id": "ex11-13",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex11/13/low.png"
           },
           {
-            "id": "ecard1-13",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/13/low.webp"
+            "id": "dp6-14",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/dp/dp6/14/low.png"
           },
           {
-            "id": "gym1-14",
-            "name": "Sabrina's Gengar",
-            "image": "https://assets.tcgdex.net/en/gym/gym1/14/low.webp"
+            "id": "ex13-16",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex13/16/low.png"
           },
           {
-            "id": "pl4-16",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/pl/pl4/16/low.webp"
+            "id": "col1-20",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/col/col1/20/low.png"
           },
           {
-            "id": "pl4-17",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/pl/pl4/17/low.webp"
+            "id": "ex8-22",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/ex/ex8/22/low.png"
           },
           {
-            "id": "dp7-18",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/dp/dp7/18/low.webp"
+            "id": "ex13-26",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex13/26/low.png"
           },
           {
-            "id": "base3-20",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/base/base3/20/low.webp"
+            "id": "np-39",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/pop/np/39/low.png"
           },
           {
-            "id": "dp1-27",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/dp/dp1/27/low.webp"
+            "id": "xy6-60",
+            "name": "Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/60/low.png"
           },
           {
-            "id": "gym2-29",
-            "name": "Sabrina's Gengar",
-            "image": "https://assets.tcgdex.net/en/gym/gym2/29/low.webp"
+            "id": "xy6-61",
+            "name": "M Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/61/low.png"
           },
           {
-            "id": "A2a-033",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/tcgp/A2a/033/low.webp"
+            "id": "P-A-063",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/063/low.png"
           },
           {
-            "id": "xy4-34",
-            "name": "Gengar EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy4/34/low.webp"
+            "id": "P-A-064",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/064/low.png"
           },
           {
-            "id": "xy4-35",
-            "name": "M Gengar EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy4/35/low.webp"
+            "id": "P-A-065",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/065/low.png"
           },
           {
-            "id": "g1-35",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/xy/g1/35/low.webp"
+            "id": "xy6-75",
+            "name": "Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/75/low.png"
           },
           {
-            "id": "sm4-38",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/sm/sm4/38/low.webp"
+            "id": "xy6-76",
+            "name": "M Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/76/low.png"
           },
           {
-            "id": "pl2-40",
-            "name": "Gengar GL",
-            "image": "https://assets.tcgdex.net/en/pl/pl2/40/low.webp"
+            "id": "bw6-85",
+            "name": "Rayquaza-EX",
+            "image": "https://assets.tcgdex.net/en/bw/bw6/85/low.png"
           },
           {
-            "id": "ecard1-48",
-            "name": "Gengar",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/48/low.webp"
+            "id": "xy6-87",
+            "name": "Rayquaza Spirit Link",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/87/low.png"
           }
         ],
-        "searchQuery": "Gengar"
+        "searchQuery": "Rayquaza"
       },
       "locked": false,
       "zIndex": 12,
@@ -12264,7 +12264,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790093718906_n4jjb",
-    "updatedAt": "2026-09-22T16:15:21.063Z"
+    "revision": "rev_1793646151481_2yx74",
+    "updatedAt": "2026-11-02T19:02:34.586Z"
   }
 }
